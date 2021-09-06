@@ -1,0 +1,72 @@
+[06:43:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:43:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:43:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:43:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:43:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:43:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:43:00] [main/INFO]: Reloading ResourceManager: Default
+[06:43:01] [Worker-Main-10/INFO]: Loaded 7 recipes
+[06:43:02] [Worker-Main-10/INFO]: Loaded 1137 advancements
+[06:43:03] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[06:43:03] [Server thread/INFO]: Loading properties
+[06:43:03] [Server thread/INFO]: Default game type: SURVIVAL
+[06:43:03] [Server thread/INFO]: Generating keypair
+[06:43:03] [Server thread/INFO]: Starting Minecraft server on *:42069
+[06:43:03] [Server thread/INFO]: Using default channel type
+[06:43:03] [Server thread/INFO]: Preparing level "world"
+[06:43:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:43:04] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[06:43:04] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[06:43:04] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[06:43:05] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[06:43:08] [Worker-Main-13/INFO]: Preparing spawn area: 17%
+[06:43:08] [Worker-Main-12/INFO]: Preparing spawn area: 17%
+[06:43:08] [Worker-Main-13/INFO]: Preparing spawn area: 17%
+[06:43:08] [Worker-Main-12/INFO]: Preparing spawn area: 17%
+[06:43:08] [Worker-Main-13/INFO]: Preparing spawn area: 17%
+[06:43:08] [Worker-Main-12/INFO]: Preparing spawn area: 18%
+[06:43:08] [Worker-Main-8/INFO]: Preparing spawn area: 84%
+[06:43:08] [Server thread/INFO]: Time elapsed: 5076 ms
+[06:43:08] [Server thread/INFO]: Done (5.178s)! For help, type "help"
+[06:43:19] [User Authenticator #1/INFO]: UUID of player D8K is fac7a209-d543-47fc-9049-ef987dde0ecc
+[06:43:19] [Server thread/INFO]: D8K[/85.146.27.152:55082] logged in with entity id 18 at (-228.36220504902, 61.0, 919.4548280737977)
+[06:43:19] [Server thread/INFO]: D8K joined the game
+[06:44:00] [Server thread/INFO]: D8K lost connection: Disconnected
+[06:44:00] [Server thread/INFO]: D8K left the game
+[06:47:00] [User Authenticator #2/INFO]: UUID of player D8K is fac7a209-d543-47fc-9049-ef987dde0ecc
+[06:47:00] [Server thread/INFO]: D8K[/85.146.27.152:55723] logged in with entity id 380 at (-228.26989088948505, 61.0, 919.2096853925611)
+[06:47:00] [Server thread/INFO]: D8K joined the game
+[06:47:35] [Server thread/INFO]: D8K lost connection: Disconnected
+[06:47:35] [Server thread/INFO]: D8K left the game
+[06:50:40] [User Authenticator #3/INFO]: UUID of player D8K is fac7a209-d543-47fc-9049-ef987dde0ecc
+[06:50:40] [Server thread/INFO]: D8K[/85.146.27.152:62598] logged in with entity id 781 at (-239.32346663898713, 60.75, 961.264034369114)
+[06:50:40] [Server thread/INFO]: D8K joined the game
+[06:54:58] [Server thread/INFO]: D8K lost connection: Disconnected
+[06:54:58] [Server thread/INFO]: D8K left the game
+[07:03:47] [User Authenticator #4/INFO]: UUID of player D8K is fac7a209-d543-47fc-9049-ef987dde0ecc
+[07:03:48] [Server thread/INFO]: D8K[/85.146.27.152:54585] logged in with entity id 1659 at (-230.92899396468522, 61.0, 953.7731372873856)
+[07:03:48] [Server thread/INFO]: D8K joined the game
+[07:05:41] [Server thread/INFO]: D8K lost connection: Disconnected
+[07:05:41] [Server thread/INFO]: D8K left the game
+[18:51:43] [User Authenticator #5/INFO]: UUID of player D8K is fac7a209-d543-47fc-9049-ef987dde0ecc
+[18:51:43] [Server thread/INFO]: D8K[/85.146.27.152:50674] logged in with entity id 2274 at (-233.97817412936004, 60.5, 948.437768105141)
+[18:51:43] [Server thread/INFO]: D8K joined the game
+[18:52:34] [Server thread/INFO]: [D8K: Set own game mode to Creative Mode]
+[19:19:32] [Server thread/INFO]: [D8K: Set own game mode to Survival Mode]
+[19:24:29] [Server thread/INFO]: [D8K: Set own game mode to Creative Mode]
+[19:29:29] [Server thread/INFO]: [D8K: Set own game mode to Survival Mode]
+[19:33:03] [Server thread/INFO]: [D8K: Gave 64 [Oak Planks] to D8K]
+[19:49:11] [Server thread/INFO]: [D8K: Teleported D8K to -228.500000, 61.000000, 920.500000]
+[19:49:11] [Server thread/WARN]: D8K moved too quickly! -89.52645329156874,31.0,136.58560852987114
+[19:52:12] [Server thread/INFO]: [D8K: Teleported D8K to -135.500000, 74.000000, 781.500000]
+[19:52:12] [Server thread/WARN]: D8K moved too quickly! 91.36250001192093,13.0,-139.98162214859963
+[19:52:12] [Server thread/WARN]: D8K moved too quickly! 91.36250001192093,13.0,-139.98162214859963
+[20:00:37] [User Authenticator #6/INFO]: UUID of player Pjottrr is 90316fad-b278-4983-8874-d2b133cd8892
+[20:00:37] [Server thread/INFO]: Pjottrr[/84.80.219.160:52161] logged in with entity id 12453 at (-226.186434722324, 65.0, 927.7883780981299)
+[20:00:37] [Server thread/INFO]: Pjottrr joined the game
+[20:00:40] [Server thread/INFO]: [D8K: Teleported D8K to -228.500000, 61.000000, 920.500000]
+[20:00:40] [Server thread/WARN]: D8K moved too quickly! -91.65122199293072,31.0,138.6953024799402
+[20:08:00] [Server thread/INFO]: Pjottrr lost connection: Disconnected
+[20:08:00] [Server thread/INFO]: Pjottrr left the game
+[20:08:06] [Server thread/INFO]: D8K lost connection: Disconnected
+[20:08:06] [Server thread/INFO]: D8K left the game
